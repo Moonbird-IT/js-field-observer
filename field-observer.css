@@ -1,0 +1,10 @@
+.observer-info {
+  display: inline-block;
+  padding: 4px;
+  background-color: #fec;
+  border: 2px solid orange;
+  vertical-align: middle;
+}
+.observer-info button {
+  display: inline;
+}

@@ -1,7 +1,7 @@
 js-field-observer
 =================
 
-Informs about number of filled input elements and allows quick clearing.
+Informs about number of filled input elements and allows quick clearing. The plugin currently supports observation on textboxes, password fields, selects, radio buttons and check boxes.
 
 Project url: https://github.com/Moonbird-IT/js-field-observer
 

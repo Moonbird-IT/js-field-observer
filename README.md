@@ -7,7 +7,7 @@ Project url: https://github.com/Moonbird-IT/js-field-observer
 
 Author: Sascha Meyer
 
-Feel free to use, change and distribute this plugin. If you extend or optimise the plugin, please let me know and I'll update the git repository with your changes.
+Feel free to fork, use, change and distribute this plugin. If you extend or optimise the plugin, please let me know and I'll update the git repository with your changes.
 
 Open issues:
 ---------------

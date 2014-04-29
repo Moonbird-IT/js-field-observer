@@ -4,6 +4,7 @@ js-field-observer
 Informs about number of filled input elements and allows quick clearing.
 
 Project url: https://github.com/Moonbird-IT/js-field-observer
+
 Author: Sascha Meyer
 
 Feel free to use, change and distribute this plugin. If you extend or optimise the plugin, please let me know and I'll update the git repository with your changes.
